@@ -42,14 +42,12 @@ Software Engineer building intelligent, agent-powered tools. I design systems wh
 
 ---
 
-### Featured Projects
+### Projects
 
-| Project | Description | Built With |
-|---------|-------------|------------|
-| [**Myrmex**](https://github.com/HuynhHoangPhuc/Myrmex) | Agent-first modular ERP system for educational institutions | Go, gRPC, NATS, React |
-| [**Zenon**](https://github.com/HuynhHoangPhuc/Zenon) | Local-first agentic note-taking CLI with MCP server | Rust, SQLite, Tantivy |
-| [**Solon**](https://github.com/HuynhHoangPhuc/Solon) | Hash-validated file editing engine with LSP & semantic search | Rust, AST-grep, LSP |
-| [**Amanuo**](https://github.com/HuynhHoangPhuc/Amanuo) | Privacy-first adaptive hybrid OCR with cloud/local pipelines | Python, Ollama, Gemini |
+- 🐜 **[Myrmex](https://github.com/HuynhHoangPhuc/Myrmex)** - Agent-first modular ERP system for educational institutions (Go + gRPC + NATS + React)
+- 🧠 **[Zenon](https://github.com/HuynhHoangPhuc/Zenon)** - Local-first agentic note-taking CLI with MCP server, PARA/Zettelkasten & CAS versioning (Rust)
+- ⚖️ **[Solon](https://github.com/HuynhHoangPhuc/Solon)** - Hash-validated file editing engine with LSP, semantic search & Claude Code plugin (Rust)
+- 👁️ **[Amanuo](https://github.com/HuynhHoangPhuc/Amanuo)** - Privacy-first adaptive hybrid OCR with cloud/local pipelines for EN/JP/VI documents (Python)
 
 ---
 
