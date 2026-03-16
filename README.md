@@ -28,12 +28,24 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuynhHoangPhuc&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHoangPhuc&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HuynhHoangPhuc&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HuynhHoangPhuc&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HuynhHoangPhuc&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHoangPhuc&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHoangPhuc&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHoangPhuc&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="170" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HuynhHoangPhuc&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HuynhHoangPhuc&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HuynhHoangPhuc&theme=default&hide_border=true&background=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=HuynhHoangPhuc&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
